@@ -7,5 +7,5 @@ Presented a PPT to illustrate the major parameter to consider while giving loans
 
 
 Contributors:
-* [Sarabjeet Singh](https://github.com/chaitanya-vanapamala/)
+* [Sarabjeet Singh](https://github.com/sarab1234)
 * [Satish](https://github.com/satishkumarkatepalli)
